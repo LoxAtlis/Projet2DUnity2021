@@ -42,6 +42,7 @@
      <Compile Include="Assets\#projet\Script\Door.cs" />
      <Compile Include="Assets\#projet\Script\Item.cs" />
      <Compile Include="Assets\#projet\Script\Elevator.cs" />
+     <Compile Include="Assets\#projet\Script\cam.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
